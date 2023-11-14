@@ -1,0 +1,116 @@
+See in HTML
+
+before 8:00 minutes What did he mention about a dot in the tab?
+
+link fav icon practice 23:00 ✅
+
+inline and block and <p> inside <h3>?39:00 *
+
+43:00 entities like &copy and lt and nbs✅
+
+mozilla developer network?✅
+
+44:00 abbreviation tag and title for tooltip dot below?✅
+
+1:00:00 practice lists and information about lists
+
+lorem language ✅
+
+1:15:00 add link to go to section
+
+change <a> color in the three ways 1:18:00 (a, visited, hover, and active) #eee color for hover and active ✅
+
+search for information about url do's and don'ts 1:22:00
+
+Practice downloads and maybe try to make one that can be continued 1:23:00
+
+open email with href 1:25:00 and phone number (10 or 11 digits?)
+
+<a> to home using just / 1:29:00 Mybe use an image to go back?
+
+What is a screenreader and why a title in HTML wouldn't work? 1:35:00
+
+Should I provide the width of an image in HTML or in CSS? is it making a comeback? 1:37:00 Cumulative layout shift?
+
+What is the fold? 1:42:00
+
+loading = "lazy" and other. practice 1:44:00
+
+What is Emmet in html and practice br*150 1:44:00
+
+advantage of keyboard shorcuts vs mouse?
+
+practice html sections1:45:00
+
+disable cache in chrome through network inspection 1:46:00
+
+Why cache only for image? What are the others CSS, JS, etc.?
+
+see image load when scrolled down 1:47:00
+
+tab highlighted image element to formate it 1:49:00
+
+practice <figure> and <figcaption> with image 1:50:00
+
+practice <dl> <dt> <dd> related to lists. Practice the types of lists. *
+
+/img/image.png or img/image.png check this
+
+Can figcaption be outside figure?
+
+Why use <code> to display code why mot just <p>? 1:55:00
+
+
+search for placeholder images and use it in the code 1:58:00
+
+irFanView? for image editing
+
+use tinypng.com 2:00:00 to compress images *
+
+3 levels of <h> 1, 2, 3 but when to use the others? 2:02:00
+
+practive <nav> for grouping links <ul> and <li> 2:04:00
+
+What elements have semantic meaning in html? hr? vs generic dividers 2:04:35
+
+What does <header> do in html? When to use it? What is <h1> called? 2:05:00 practice it
+
+practice using <main> 2:06:00 and is hr included?
+
+practice aria-label = "primary-navigation" when using multiple nav 2:09:00 aria-labelledby and id in h2 inside nav
+
+inline vs block tags
+
+create an <article> in html 2:12:19
+
+asside details summary and <p> below the summary practice 2:14:00
+
+practice <mark> 2:16:00
+
+practice <time> and datetime 2:17:00 What can you pass to it?
+
+span vs div 2:21:00 How do you give it semantic meaning? When to use these?
+
+try html outliner 2:22:00
+
+nav title by h element or title? 2:22:00 How many navs for page before you need to name them? In an outline if there is a 1...
+
+See a webpage all made with a table element 2:25:00
+
+practice table, tr, and td 2:26:00*
+
+practice alt+z to wrap code in VS 2:26:00
+
+How much does the table expand vs other elements 2:30:00
+
+practice th (table header) 2:30:00
+
+What does colspan do in table? 2:31:00 try with and without it. also rowspan
+
+practice <caption> for table semantics 2:33:00
+
+practice thead for table 2:33:00 and tbody and tfoot
+
+th assumption at 2:37:49
+
+practice using scope="col" in th of table 2:38:00 vs using an id
