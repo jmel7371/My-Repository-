@@ -1,0 +1,406 @@
+All in One
+
+See in CSS
+
+meta http-equiv= ? content = ? 4:15
+
+no / before folde name? Do not include type in css link. Why is it frowned? 6:20
+
+Any order required in CSS styles? 8:06
+
+Will style coming after inline style override it?
+
+Practice css validation 13:59
+
+What uses can id have in html and css? 19:16 What did he say about it?
+
+h2 nested in h1? Is it okay? 20:32
+
+practice adding a class to two span elements at the same time 22:00
+
+What is a css reset? 22:53
+
+check out inspect > elements > style to see if css is crossed out. 26:38
+
+What inherits in css? 28:00
+
+When to use important 33:00
+
+try the specificity calculator 34:00
+Why with two classes it goes up? Can an element use two classes?
+
+How many colors in CSS? How many are possible with rgb? Is it with names?
+
+What is contrast? 44:00
+
+What is hue? saturation? and lightness? 46:00
+
+try out the coolors site 48:00
+
+Make a button to change site color theme original, light, and dark
+
+Change from inches to pixels 52:44
+
+When to use pixels? and practice percents 57:00 Did the h1 border went side to side?
+
+Which units to use?
+
+Check margin pixels 1:16:00
+
+practice border-radius 1:36:00 Review something at this time about not just including content 
+
+CSS value that did not require a semicolon? It was about changing the first letter of each word to uppercase. 1:44:00
+
+Try serif vs times new roman in CSS font-family 1:51:00
+
+single or double quotes when CSS value is made out of two words 1:54:00 Can you use arial with tnr as font stack?
+
+Use google fonts 1:56:00
+
+
+W3 HTML see
+
+practice canvas (canvas)
+
+practice svg (svg)
+
+when the user clicks the text within the <label> element, it toggles the radio button/checkbox. ? (forms)
+
+PHP And others daily todo: 
+
+write to another file using php✅
+send data from html form to js ✅
+refresh button ✅ add timer
+edit html in viewport
+scrape a website*
+
+pack an app or program (C++)
+What is a spider?
+practice anime girl in paint
+try to use https for website
+cellphone cmd?
+js this vs php this
+What are .asp files?
+https://www.w3schools.com/js/cd_catalog.xml and https://www.w3schools.com/js/js_ajax_http_response.asp review XML formatting and code
+learn about sql injection and the other one
+html button that can be continually pressed 
+Try if statement with string instead of boolean 
+$xmlDoc = new DOMDocument();
+$xmlDoc->load("cd_catalog.xml"); vs javascript DOM
+print into div with 
+practice file() in php
+0||0 to store text file?
+practice .csv
+Read the server rules for Claro
+change htmlinner in line onclick
+Make a bulb with js
+change style with js
+use window as a variable in js ✅
+check if event is deprecated 
+Does the order of html element property(attribute) matter?
+Do a signup page.
+implement a captcha how does it tell on mobile?
+
+W3 js see
+
+Get geolocatio with an API
+
+number of elements in the HTML DOM? performance 
+
+The HTTP specification defines that browsers should not download more than two components in parallel. and https? parallel?
+
+Add script with code after window has loaded (in Performance) 
+
+Do objects in have default keys and maps not? (maps)
+
+Can you log a key just by using key?
+
+practice block scope (scope)
+
+types of charts (graphics)
+
+Can a button have two attributes like onclick and onmouseover?
+
+try validation code message (API Web Forms)
+
+practice the web history API
+
+localStorage Object vs the global window object vs another?
+
+Try storing or deleting cookies 
+
+How is postMessage used? and why it can be a security risk? (web worker API)
+
+What is <output> tag? (web worker API)
+
+* The window object
+* The document object
+* The parent object (web worker API) What are these precisely?
+Practice fetch *
+
+Does <br> at the beginning of a string do the same than at the end? (geolocation api)
+
+pactice myDisplayer(some) (callbacks)
+
+const posNumbers = removeNeg(myNumbers, (x) => x >= 0); typeof posNumbers (callbacks) *
+
+practice promises
+
+
+
+W3 CSS see
+
+h for all headers? 
+
+css link in body what would happen?
+
+Should type = text/css be included?
+
+Check which values paint uses for colors. (colors)
+
+How to use transparent colors in CSS, paint, and sketch? vs opacity 
+
+Compare W3Schools rgb colors with CSS and sketch
+
+See in HTML
+
+before 8:00 minutes What did he mention about a dot in the tab?
+
+link fav icon practice 23:00 ✅
+
+inline and block and <p> inside <h3>?39:00 *
+
+43:00 entities like &copy and lt and  nbs✅
+
+mozilla developer network?✅ 
+
+44:00 abbreviation tag and title for tooltip dot below?✅
+
+1:00:00 practice lists and information about lists
+
+lorem language ✅
+
+1:15:00 add link to go to section 
+
+change <a> color in the three ways 1:18:00 (a, visited, hover, and active) #eee color for hover and active ✅
+
+search for information about url do's and don'ts 1:22:00
+
+Practice downloads and maybe try to make one that can be continued 1:23:00
+
+open email with href 1:25:00 and phone number (10 or 11 digits?)
+
+<a> to home using just /  1:29:00 Mybe use an image to go back?
+
+What is a screenreader and why a title in HTML wouldn't work? 1:35:00
+
+Should I provide the width of an image in HTML or in CSS? is it making a comeback? 1:37:00 Cumulative layout shift?
+
+What is the fold? 1:42:00
+
+loading = "lazy" and other. practice 1:44:00
+
+What is Emmet in html and practice br*150 1:44:00
+
+advantage of keyboard shorcuts vs mouse? 
+
+practice html sections1:45:00
+
+disable cache in chrome through network inspection 1:46:00 
+
+Why cache only for image? What are the others CSS, JS, etc.?
+
+see image load when scrolled down 1:47:00
+
+tab highlighted image element to formate it 1:49:00
+
+practice <figure> and <figcaption> with image 1:50:00
+
+practice <dl> <dt> <dd> related to lists. Practice the types of lists. *
+
+/img/image.png or img/image.png check this
+
+Can figcaption be outside figure?
+
+Why use <code> to display code why mot just <p>? 1:55:00
+
+
+search for placeholder images and use it in the code 1:58:00
+
+irFanView? for image editing 
+
+use tinypng.com 2:00:00 to compress images *
+
+3 levels of <h> 1, 2, 3 but when to use the others? 2:02:00
+
+practive <nav> for grouping links <ul> and <li> 2:04:00
+
+What elements have semantic meaning in html? hr? vs generic dividers 2:04:35
+
+What does <header> do in html? When to use it? What is <h1> called? 2:05:00 practice it
+
+practice using <main> 2:06:00 and is hr included?
+
+practice aria-label = "primary-navigation" when using multiple nav 2:09:00 aria-labelledby and id in h2 inside nav 
+
+inline vs block tags
+
+create an <article> in html 2:12:19
+
+asside details summary and <p> below the summary practice 2:14:00
+
+practice <mark> 2:16:00
+
+practice <time> and datetime 2:17:00 What can you pass to it?
+
+span vs div 2:21:00 How do you give it semantic meaning? When to use these?
+
+try html outliner 2:22:00*
+
+nav title by h element or title? 2:22:00 How many navs for page before you need to name them? In an outline if there is a 1...
+
+See a webpage all made with a table element 2:25:00
+
+practice table, tr, and td 2:26:00*✅
+
+practice alt+z to wrap code in VS 2:26:00✅
+
+How much does the table expand vs other elements 2:30:00
+
+practice th (table header) 2:30:00 ✅
+
+What does colspan do in table? 2:31:00 try with and without it. also rowspan
+
+practice <caption> for table semantics 2:33:00 ✅
+
+practice thead for table 2:33:00 and tbody and tfoot ✅
+
+th assumption at 2:37:49
+
+practice using scope="col" in th of table 2:38:00 vs using an id 
+
+label practice in form 2:45:00 What needs to match? for, name, id practice placeholder 
+
+practice input text autocomplete = "on" 2:48:00 and required and autofocus. Find information about what each does. What happens with two autofocus in one page?
+
+practice tel in input 2:53:00
+
+practice pattern in tel 2:54:00 How is it a programming language?* How would it be on mobile? Also, compare to number instead of tel.
+
+favorite decade? number practice in input min, max, step, and value
+
+practice select element and option 2:58:00 add an option for none
+
+practice optgroup with label 3:01:00
+
+add multiple and size to <select> 3:03:00
+
+comment out a whole selected block of code with toggle in VS 3:04:28 shift+alt+a
+
+practice input: text 
+
+practice list attribute in input instead of select 3:05:00 and <datalist> match id 
+
+practice fieldset with form 3:07:00 Where did he put the closing tag?
+
+practice legend 3:07:00 ex. Personal Information 
+
+practice type="radio" in input. When does the name have to be different from id or something else? After or before the label?
+3:09:00
+
+3:10:00 What has to have id and what not? What did he say?
+
+practice input type checkbox 3:11:00 How is it different from the one for radio in terms of id and others?
+
+practice textarea for message input 3:14:00 practice placeholder 
+
+practice button vs input and submit form using the button 3:18:00
+
+challenge: add a save button to form filling 
+
+password security in forms how not to see it? 3:19:00
+
+How does the server arrange submitted form data 3:21:00
+
+Make a cancel button
+
+practice formaction 3:21:00 and formmethod What is httpbin.org? Why not just use live server?
+
+Check out emojipedia 3:26:00
+
+See in JS course
+
+card counting exercise at 1:49:29
+bracket notation and dot notation for accessing properties of object. as strings or not. And intermixed 
+
+2:28:00 Or operator in return but not in contidition!
+
+Random range calculations 2:31:00
+
+radix classifications 2:33:00
+
+ternary operator 2:35:00 ✅
+
+use strict and let and var mixed 2:39:00
+
+const all caps? 2:43:00
+
+try catch what is ex? before 2:48:00 ✅
+
+practice anonymous functions short notation 2:48:00
+
+map filter reduce 2:49:00 later ✅
+
+functions in functions and arrow functions 2:45:00 * important 
+
+2:54:00 Check why return don't need an if statement 
+
+
+...args in function 2:55:00
+
+...arr 2:57:00
+
+destructuring? 3:00:00
+
+Object creation with just key? 3:12:0
+
+private variables in class 3:20:00
+
+practice import and export ./  and is there a function people used in the past? 3:22:00
+
+When to use ./ and practice importing all from another file  
+
+Short function notation and when to use it
+
+const myObject = {
+  firstName:"John",
+  lastName: "Doe",
+  fullName: function () {
+    return this;
+  }
+}
+// This will return [object Object] (the owner object)
+myObject.fullName();
+What is [object Object]? Try this. 
+
+if (0) What does it return?
+
+try (x == y) for booleans 
+
+typeof or console.log() in viewport
+
+All Other: 
+
+Server practice 
+
+RewriteEngine On
+RewriteRule ^services$ page2.html [L]
+
+.htaccess
+
+linter use
+
+
+
+
+
